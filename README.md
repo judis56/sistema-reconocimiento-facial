@@ -22,3 +22,6 @@ Sistema desarrollado para automatizar el control de asistencia mediante reconoci
 
 ## Autor
 Judith Isabel Enríquez Aguirre
+
+## Documentación
+El repositorio incluye la presentación y documentación del proyecto académico.
